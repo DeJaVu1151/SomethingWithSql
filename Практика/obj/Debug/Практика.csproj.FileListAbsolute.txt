@@ -1,0 +1,15 @@
+D:\ФЛЭШКА\Практика\bin\Debug\Практика.exe.config
+D:\ФЛЭШКА\Практика\bin\Debug\Практика.exe
+D:\ФЛЭШКА\Практика\bin\Debug\Практика.pdb
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.csproj.AssemblyReference.cache
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.csproj.SuggestedBindingRedirects.cache
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.Properties.Resources.resources
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.csproj.GenerateResource.cache
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.csproj.CoreCompileInputs.cache
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.exe
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.pdb
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.Log_in.resources
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.Reg.resources
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.WorkSpace.resources
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.Add_new.resources
+D:\ФЛЭШКА\Практика\obj\Debug\Практика.AdminPlus.resources
